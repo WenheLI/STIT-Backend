@@ -27,10 +27,10 @@ events.get('/', async ( ctx ) => {
                 ctx.body = {status: 1, message: "Success", data}
             });
         } else {
-            ctx.body = {status: 0, message: "wrong session"}
+            ctx.body = {status: 0, message: "wrong session", data:{}}
         }
     } else {
-        ctx.body = {status: -1, message: "wrong username"}
+        ctx.body = {status: -1, message: "wrong username", data:[]}
     }
 
 });

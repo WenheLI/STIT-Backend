@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "classname": [],
+      "genreId": [],
+      "username": "",
+      "password": "",
+      "uuid": "",
+      "session": ""
+    },
+    {
+      "uuid": "a2c90e80-bbaa-11e8-909a-879aced5c273",
+      "classname": [
+        "Film",
+        "asd",
+        "qwe"
+      ],
+      "genreId": [
+        "Theatre"
+      ],
+      "username": "123",
+      "password": "75d11083e7263737e3d0491800422b4063c43477",
+      "session": "fcebb6db-be34-4982-8be5-d8ccc365e71d"
+    }
+  ]
+}

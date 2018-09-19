@@ -10,7 +10,7 @@ It has four endpoints:
  - **events** so far it only allow users to get new events based on their prefs.
  - **preference** so far allow users to use post to change their preference setting.
 
-All the codes are developed under ES 7 with promising and async/await and all the APIs are developed under RESTful.
+All the codes are developed under ES 7 with promising and async/await and all the APIs are developed under RESTful. The whole backend is developed under 2.5 hours
 
 ## How to use
 
